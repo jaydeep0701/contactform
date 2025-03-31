@@ -1,6 +1,6 @@
 <?php 
 
-namespace Laraphant\Contactform\Http\Controllers;
+namespace Laraphantt\Contactform\Http\Controllers;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Http\Request;
 

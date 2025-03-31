@@ -1,6 +1,6 @@
 <?php
 
-namespace Laraphant\Contactform;
+namespace Laraphantt\Contactform;
 
 use Illuminate\Support\ServiceProvider;
 

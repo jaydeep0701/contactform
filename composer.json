@@ -5,13 +5,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Laraphant\\Contactform\\": "src/"
+            "Laraphantt\\Contactform\\": "src/"
         }
     },
     "extra":{
         "laravel":{
             "providers": [
-                "Laraphant\\Contactform\\ContactFormServiceProvider"
+                "Laraphantt\\Contactform\\ContactFormServiceProvider"
             ]
         }
     },
