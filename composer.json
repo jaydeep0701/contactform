@@ -1,0 +1,26 @@
+{
+    "name": "laraphant/contactform",
+    "description": "contact form",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laraphant\\Contactform\\": "src/"
+        }
+    },
+    "extra":{
+        "laravel":{
+            "providers": [
+                "Laraphant\\Contactform\\ContactFormServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "jaydeep07",
+            "email": "jaydeepb@alphansotech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
